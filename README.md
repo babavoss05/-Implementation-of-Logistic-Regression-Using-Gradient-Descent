@@ -115,26 +115,36 @@ np.mean(predict(res.x,X)==y)
 ```
 
 ## Output:
-### array value of x: ![image](https://github.com/babavoss05/-Implementation-of-Logistic-Regression-Using-Gradient-Descent/assets/103019882/870c870a-be58-4365-b34f-77a67a055161)
+### array value of x: 
+![image](https://github.com/babavoss05/-Implementation-of-Logistic-Regression-Using-Gradient-Descent/assets/103019882/870c870a-be58-4365-b34f-77a67a055161)
 
-### array value of y: ![image](https://github.com/babavoss05/-Implementation-of-Logistic-Regression-Using-Gradient-Descent/assets/103019882/8424a3c4-835e-4a30-be97-b8c15586ef6a)
+### array value of y:
+![image](https://github.com/babavoss05/-Implementation-of-Logistic-Regression-Using-Gradient-Descent/assets/103019882/8424a3c4-835e-4a30-be97-b8c15586ef6a)
 
-### Exam 1 - score graph : ![image](https://github.com/babavoss05/-Implementation-of-Logistic-Regression-Using-Gradient-Descent/assets/103019882/221de6da-1324-4981-aa99-441224168e8d)
+### Exam 1 - score graph :
+![image](https://github.com/babavoss05/-Implementation-of-Logistic-Regression-Using-Gradient-Descent/assets/103019882/221de6da-1324-4981-aa99-441224168e8d)
 
-### Sigmoid function graph : ![image](https://github.com/babavoss05/-Implementation-of-Logistic-Regression-Using-Gradient-Descent/assets/103019882/16235fbc-adb3-4951-ba0f-28a782c3e63c)
+### Sigmoid function graph :
+![image](https://github.com/babavoss05/-Implementation-of-Logistic-Regression-Using-Gradient-Descent/assets/103019882/16235fbc-adb3-4951-ba0f-28a782c3e63c)
 
-### X_train_grad value : ![image](https://github.com/babavoss05/-Implementation-of-Logistic-Regression-Using-Gradient-Descent/assets/103019882/fe3db45d-59ab-461c-88dd-dd3ca8576955)
+### X_train_grad value :
+![image](https://github.com/babavoss05/-Implementation-of-Logistic-Regression-Using-Gradient-Descent/assets/103019882/fe3db45d-59ab-461c-88dd-dd3ca8576955)
 
-### Y_train_grad value : ![image](https://github.com/babavoss05/-Implementation-of-Logistic-Regression-Using-Gradient-Descent/assets/103019882/adedaa43-6b2b-4d2b-bc92-584601993913)
+### Y_train_grad value :
+![image](https://github.com/babavoss05/-Implementation-of-Logistic-Regression-Using-Gradient-Descent/assets/103019882/adedaa43-6b2b-4d2b-bc92-584601993913)
 
-### Print res.x : ![image](https://github.com/babavoss05/-Implementation-of-Logistic-Regression-Using-Gradient-Descent/assets/103019882/64309b7b-21bb-4e6b-aee3-ae110267dc77)
+### Print res.x :
+![image](https://github.com/babavoss05/-Implementation-of-Logistic-Regression-Using-Gradient-Descent/assets/103019882/64309b7b-21bb-4e6b-aee3-ae110267dc77)
 
-### Decision boundary - graph for exam score : ![image](https://github.com/babavoss05/-Implementation-of-Logistic-Regression-Using-Gradient-Descent/assets/103019882/05d652aa-9d9e-4b93-b8c5-5a9e39ee61f4)
+### Decision boundary - graph for exam score :
+![image](https://github.com/babavoss05/-Implementation-of-Logistic-Regression-Using-Gradient-Descent/assets/103019882/05d652aa-9d9e-4b93-b8c5-5a9e39ee61f4)
 
 
-### Proability value :![image](https://github.com/babavoss05/-Implementation-of-Logistic-Regression-Using-Gradient-Descent/assets/103019882/945090e3-7f76-4860-a7e4-34afdebb6693)
+### Proability value :
+![image](https://github.com/babavoss05/-Implementation-of-Logistic-Regression-Using-Gradient-Descent/assets/103019882/945090e3-7f76-4860-a7e4-34afdebb6693)
 
-### Prediction value of mean :![image](https://github.com/babavoss05/-Implementation-of-Logistic-Regression-Using-Gradient-Descent/assets/103019882/7067a17c-f57b-4557-bbf9-517a139dc2b7)
+### Prediction value of mean :
+![image](https://github.com/babavoss05/-Implementation-of-Logistic-Regression-Using-Gradient-Descent/assets/103019882/7067a17c-f57b-4557-bbf9-517a139dc2b7)
 
 ## Result:
 Thus the program to implement the the Logistic Regression Using Gradient Descent is written and verified using python programming.
